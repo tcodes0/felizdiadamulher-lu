@@ -1,5 +1,8 @@
+
 body {
-    /* background-image: url('./rosas1.png'); */
+    font-family: "Sarabun", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     background-repeat: repeat;
     background-size: 50vw;
 }
