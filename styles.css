@@ -1,0 +1,26 @@
+body {
+    background-image: url('./rosas.png');
+    background-repeat: repeat;
+    background-size: 50vw;
+}
+
+h1 {
+    font-size: 3rem;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    color: white; /* White text color */
+    text-align: center;
+}
+
+h3 {
+    color: white; /* White text color */
+}
+
+p {
+    font-size: 1.5rem;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    color: white; /* White text color */
+}
+
+img {
+    max-width: 20vw;
+}
